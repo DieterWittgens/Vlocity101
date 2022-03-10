@@ -1,0 +1,19 @@
+/.sfdx/*
+/.vlocity/*
+/.vscode/*
+/node_modules/*
+/temp/*
+temp.zip
+.project.license
+package-lock.json
+yarn-error.log
+.pmdCache
+force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml
+force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml
+force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml
+
+.localdevserver/*
+.vim-force.com/*
+.pmdReport.csv
+
+.DS_Store
