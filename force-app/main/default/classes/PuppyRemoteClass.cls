@@ -12,7 +12,7 @@ global without sharing class PuppyRemoteClass implements vlocity_ins.VlocityOpen
 
     private static Boolean retrievePuppies(Map<String,Object> input, Map<String,Object> output) {
         // Initialise output map
-        if (output == null){
+        if (output == null) {
             output = new Map<String, Object>();
         }
 
